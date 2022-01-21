@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		160AD504279A520000CFCB85 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 160AD503279A520000CFCB85 /* CircleImage.swift */; };
 		16AB662E279A468E0076A05C /* GreetMeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AB662D279A468E0076A05C /* GreetMeApp.swift */; };
 		16AB6630279A468E0076A05C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16AB662F279A468E0076A05C /* ContentView.swift */; };
 		16AB6632279A468F0076A05C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16AB6631279A468F0076A05C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		160AD503279A520000CFCB85 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		16AB662A279A468E0076A05C /* GreetMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GreetMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16AB662D279A468E0076A05C /* GreetMeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GreetMeApp.swift; sourceTree = "<group>"; };
 		16AB662F279A468E0076A05C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				16AB662D279A468E0076A05C /* GreetMeApp.swift */,
 				16AB662F279A468E0076A05C /* ContentView.swift */,
 				16AB6631279A468F0076A05C /* Assets.xcassets */,
+				160AD503279A520000CFCB85 /* CircleImage.swift */,
 				16AB6633279A468F0076A05C /* Preview Content */,
 			);
 			path = GreetMe;
@@ -139,6 +142,7 @@
 			files = (
 				16AB6630279A468E0076A05C /* ContentView.swift in Sources */,
 				16AB662E279A468E0076A05C /* GreetMeApp.swift in Sources */,
+				160AD504279A520000CFCB85 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
